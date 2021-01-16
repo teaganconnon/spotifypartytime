@@ -1,5 +1,5 @@
 # spotifypartytime
-Spotify Party Time
+Spotify Party Time\n
 Web App to allow party sessions of communal listening to songs
 Rooms thing
 Shuffle queue
